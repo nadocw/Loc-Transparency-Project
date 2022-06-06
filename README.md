@@ -1,2 +1,6 @@
 # Loc-Transparency-Project
-Centralized location for all research and data that will be collected for support of this initiation
+This project is an initiative by Connor Wertz and other colleagues within the Localization industry. Through this initiative, we hope to gather information relevant to jobseekers within the Localization industry, including but not limited to labor, liability, antitrust, and other relevant laws. Through this information, we hope to help workers and jobseekers learn their rights, prepare for negotiation with companies, and decide on their individual salaries.
+
+The information in this wiki will be organized via legal category, along with links to resources relevant to the major states where localization jobs are located. This is a work in progress, and we hope that the information will be of use to you all.
+
+If you are in the Localization industry and wish to support our initiative, feel free to answer this survey (Insert survey link here). The aim of this survey is not just to provide a method of analyzing salary offerings based on company and vertical, but also to help analyze how those practices vary based on gender, race, and other factors. This survey is entirely optional, but providing this information would be greatly helpful for other jobseekers in knowing what to expect when negotiating salaries and to see how companies actually follow their inclusivity statements and policies.
